@@ -1,0 +1,14 @@
+D:\ZZZadanie2v3\ZZZadanie2v3\bin\Debug\net8.0\ZZZadanie2v3.exe
+D:\ZZZadanie2v3\ZZZadanie2v3\bin\Debug\net8.0\ZZZadanie2v3.deps.json
+D:\ZZZadanie2v3\ZZZadanie2v3\bin\Debug\net8.0\ZZZadanie2v3.runtimeconfig.json
+D:\ZZZadanie2v3\ZZZadanie2v3\bin\Debug\net8.0\ZZZadanie2v3.dll
+D:\ZZZadanie2v3\ZZZadanie2v3\bin\Debug\net8.0\ZZZadanie2v3.pdb
+D:\ZZZadanie2v3\ZZZadanie2v3\obj\Debug\net8.0\ZZZadanie2v3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZZZadanie2v3\ZZZadanie2v3\obj\Debug\net8.0\ZZZadanie2v3.AssemblyInfoInputs.cache
+D:\ZZZadanie2v3\ZZZadanie2v3\obj\Debug\net8.0\ZZZadanie2v3.AssemblyInfo.cs
+D:\ZZZadanie2v3\ZZZadanie2v3\obj\Debug\net8.0\ZZZadanie2v3.csproj.CoreCompileInputs.cache
+D:\ZZZadanie2v3\ZZZadanie2v3\obj\Debug\net8.0\ZZZadanie2v3.dll
+D:\ZZZadanie2v3\ZZZadanie2v3\obj\Debug\net8.0\refint\ZZZadanie2v3.dll
+D:\ZZZadanie2v3\ZZZadanie2v3\obj\Debug\net8.0\ZZZadanie2v3.pdb
+D:\ZZZadanie2v3\ZZZadanie2v3\obj\Debug\net8.0\ZZZadanie2v3.genruntimeconfig.cache
+D:\ZZZadanie2v3\ZZZadanie2v3\obj\Debug\net8.0\ref\ZZZadanie2v3.dll
