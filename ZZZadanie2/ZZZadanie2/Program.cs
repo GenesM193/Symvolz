@@ -2,8 +2,9 @@
 Console.WriteLine("Сколько строк?");
 int a;
 string a2 = Console.ReadLine();
-bool a1 = int.TryParse(a2, out a);
-int e = 0;
+if (!int.TryParse(a2, out a))
+    return;
+    int e = 0;
 Console.WriteLine("Введите информацию из этих строк");
 String line = "";
 while (a != 0)
